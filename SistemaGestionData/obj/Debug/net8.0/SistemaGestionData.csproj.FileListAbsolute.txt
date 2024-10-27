@@ -1,0 +1,70 @@
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.deps.json
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.runtimeconfig.json
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.dll
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.pdb
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.dll
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.pdb
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaG.92EE484C.Up2Date
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.dll
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\refint\SistemaGestionData.dll
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.pdb
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.genruntimeconfig.cache
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\ref\SistemaGestionData.dll
+C:\Users\achim\OneDrive\Escritorio\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.sourcelink.json
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.deps.json
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.runtimeconfig.json
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.dll
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.pdb
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.dll
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.pdb
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.AssemblyReference.cache
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfoInputs.cache
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfo.cs
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.sourcelink.json
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaG.92EE484C.Up2Date
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.dll
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\refint\SistemaGestionData.dll
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.pdb
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.genruntimeconfig.cache
+F:\Curso C#\Oscar-Vazquez-ProyectoFinal\SistemaGestionData\obj\Debug\net8.0\ref\SistemaGestionData.dll
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.deps.json
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.runtimeconfig.json
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.dll
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.pdb
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.dll
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.pdb
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaG.92EE484C.Up2Date
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.dll
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\refint\SistemaGestionData.dll
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.pdb
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.genruntimeconfig.cache
+C:\Users\juan.dominguez\Downloads\Oscar_Vazquez-CoderProyectoFinal-master\Oscar_Vazquez-CoderProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\ref\SistemaGestionData.dll
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.deps.json
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.runtimeconfig.json
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.dll
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.pdb
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.dll
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.pdb
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaG.92EE484C.Up2Date
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.dll
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\refint\SistemaGestionData.dll
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.pdb
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.genruntimeconfig.cache
+C:\Users\juan.dominguez\Downloads\Juan_Dominguez-CoderProyectoFinal-master\Juan_Dominguez-ProyectoFinal-master\SistemaGestionData\obj\Debug\net8.0\ref\SistemaGestionData.dll

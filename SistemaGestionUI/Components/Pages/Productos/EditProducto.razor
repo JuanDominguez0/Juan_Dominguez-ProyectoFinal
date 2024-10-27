@@ -1,0 +1,31 @@
+﻿@page "/productos/{id:int}/editar"
+@inject ProductsServices Service
+
+<h3>Edicion de Productos</h3>
+
+@if (producto == null)
+{
+    <p>No existe el producto</p>
+}
+else
+{
+    <div class="card">
+        <div class="card-body">
+            <ProductosForm Producto = "producto" />
+        </div>
+    </div>
+}
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    private Product? producto;
+
+    protected override void OnInitialized()
+    {
+        producto = Service.GetOneProduct(Id);
+    }
+}
+
